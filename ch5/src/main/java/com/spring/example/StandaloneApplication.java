@@ -1,6 +1,6 @@
 package com.spring.example;
 
-import org.springframework.boot.autoconfigure.SpringBootApplication;
+import com.spring.example.vo.PasswordDTO;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.server.reactive.HttpHandler;
 import org.springframework.http.server.reactive.ReactorHttpHandlerAdapter;
